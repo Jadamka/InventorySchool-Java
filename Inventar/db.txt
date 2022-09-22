@@ -1,0 +1,3 @@
+Nazev: Léčivý lektvar;Váha: 25.0;Popis: Vyléčí hráče;Účinnost: 10;Zničeno: false
+Název: Meč;Váha: 25.0;Popis: Na mlácení;Damage: 50;Typ utoku: Normal;Stav: 30;Zničeno: false
+Název: Trnité brnění;Váha: 50.0;Popis: Na obranu;Odolnost Ohně: false;Odolnost jedu: true;Ochrana: 30;Stav: 30;Zničeno: false
